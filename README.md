@@ -1,7 +1,7 @@
 ### Salut :hugs:
-Je m'appelle Quentin, j'ai 38 ans, 2 enfants. 
+Je m'appelle **Quentin**, j'ai 38 ans, 2 enfants. 
 
-Après plus de 10 ans dans les métiers de la logistique je souhaite faire du code mon activité principale.
+Après plus de 10 ans dans les métiers de la logistique je souhaite faire du **code** mon activité principale.
 
 Je viens de finir le Bootcamp Le Wagon et je commence Flutter et Dart et travail sur un projet de gestion de la [maison familiale](https://github.com/LeGaspii/La-Faverie) sur rails.
 
