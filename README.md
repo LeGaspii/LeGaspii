@@ -8,9 +8,9 @@ J'ai plus de 10 ans dans les métiers de la logistique. Aujourd'hui, je souhaite
 Pendant le bootcamp, j'ai travaillé sur  https://coach-seeker.herokuapp.com/ et https://www.dare-to-go.com/.
 
 ### Je suis à la recherche de mon premier poste, donc si vous voulez qu'on discute n'hesitez pas !
-📧 quentin.soubeyrol@gmail.com 📧
+📧 quentin@soubeyrol.com 📧
 
-## 💚 www.soubeyrol.com 💚
+##  www.soubeyrol.com 
 
 
 - 🔭 I’m currently working on [La faverie](https://github.com/LeGaspii/La-Faverie)
