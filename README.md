@@ -13,9 +13,9 @@ Pendant le bootcamp, j'ai travaillé sur  https://coach-seeker.herokuapp.com/ et
 ##  www.soubeyrol.com 
 
 
-- 🔭 I’m currently working on [La faverie](https://github.com/LeGaspii/La-Faverie)
+- 🔭 I’m currently working on [La faverie](https://github.com/LeGaspii/La-Faverie) - [La faverie](www.lafaverie.fr)
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m currently learning **Python and Flask**
 
 - ⚡ Fun fact **J'aime courir sans personnes à mes trousses.**
 
