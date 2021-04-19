@@ -1,7 +1,7 @@
 ### Salut :hugs:
 Je m'appelle **Quentin**, j'ai 38 ans, 2 enfants. 
 
-Je viens de finir le Bootcamp Le Wagon et je commence Flutter et Dart et travail sur un projet de gestion de la [maison familiale](https://github.com/LeGaspii/La-Faverie) sur rails.
+Je viens de finir le Bootcamp Le Wagon et je commence Flutter et Dart et travail sur un projet de gestion de la [maison familiale](https://www.lafaverie.fr) sur rails et un petit jeu ou il faut deviner des noms de Pokémons [Pokefind](https://legaspii.github.io/pokefind/).
 
 J'ai plus de 10 ans dans les métiers de la logistique. Aujourd'hui, je souhaite faire du **code** mon activité principale.
 
