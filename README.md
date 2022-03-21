@@ -1,13 +1,13 @@
 ### Salut :hugs:
 Je m'appelle **Quentin**, j'ai 39 ans, 2 enfants. 
 
-Je viens de finir le Bootcamp Le Wagon et je commence Flutter et Dart et travail sur un projet de gestion de la [maison familiale](https://www.lafaverie.fr) sur rails et un petit jeu ou il faut deviner des noms de Pokémons [Pokefind](https://legaspii.github.io/pokefind/).
+Après le Bootcamp Le Wagon, un super stage chez [AIO](https://aio.eu/fr/), j'ai rejoins la team [Convives](https://www.convives.fr).
 
-J'ai plus de 10 ans dans les métiers de la logistique. Aujourd'hui, je souhaite faire du **code** mon activité principale.
+J'ai plus de 10 ans dans les métiers de la logistique. Aujourd'hui, je fais du **code** mon activité principale.
 
 Pendant le bootcamp, j'ai travaillé sur  https://coach-seeker.herokuapp.com/ et https://www.dare-to-go.com/.
 
-### Je suis à la recherche de mon premier poste, si vous voulez qu'on en discute n'hesitez pas !
+### Si vous voulez qu'on en discute n'hesitez pas !
 📧 quentin@soubeyrol.com 📧
 
 ##  www.soubeyrol.com 
