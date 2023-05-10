@@ -1,7 +1,8 @@
 ### Salut :hugs:
 Je m'appelle **Quentin**, j'ai 39 ans, 2 enfants. 
 
-Après le Bootcamp Le Wagon, un super stage chez [AIO](https://aio.eu/fr/), j'ai rejoins la team [Convives](https://www.convives.fr).
+Après le Bootcamp Le Wagon et un super stage chez [AIO](https://aio.eu/fr/), j'ai rejoins la team [Convives](https://www.convives.fr).
+Je suis depuis fin 2022 développeur Full-stack chez [Shinken Solutions](https://www.shinken-enterprise.com/fr/accueil/) !
 
 J'ai plus de 10 ans dans les métiers de la logistique. Aujourd'hui, je fais du **code** mon activité principale.
 
